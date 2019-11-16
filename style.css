@@ -1,0 +1,21 @@
+body {
+  margin: 30px;
+}
+#container {
+  text-align: center;
+  margin-bottom: 10px;
+}
+#character-count-container,
+#result-container {
+  text-align: center;
+  width: 100%;
+  word-wrap: break-word;
+}
+#character-count {
+  color: red;
+}
+#translate-input {
+  width: 300px;
+  height: 40px;
+  font-size: 20px;
+}
