@@ -4,7 +4,6 @@
   //Capturing page elements
   var translateInput = document.querySelector("#translate-input");
   var characterCount = document.querySelector("#character-count");
-  //   var translateButton = document.querySelector("#translate-button");
   var resultBox = document.querySelector("#result");
 
   //Global Variable
